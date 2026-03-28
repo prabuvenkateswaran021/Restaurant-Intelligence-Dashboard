@@ -163,7 +163,7 @@ python data_processing.py > insights_output.json
 3. Set source to `main` branch, root folder `/`
 4. Your dashboard will be live at:
    ```
-   https://<your-username>.github.io/restaurant-intelligence-dashboard/restaurant_dashboard.html
+    https://prabuvenkateswaran021.github.io/Restaurant-Intelligence-Dashboard/
    ```
 
 ---
